@@ -1,0 +1,1 @@
+Some preprocessed data from various sources. For use with [imodels](https://github.com/csinva/imodels).

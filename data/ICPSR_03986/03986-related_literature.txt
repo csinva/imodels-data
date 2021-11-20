@@ -1,0 +1,125 @@
+Bibliography
+Correlates and Consequences of Juvenile Exposure to Violence in the United
+States, 1995
+
+This bibliography includes published and unpublished works that are related 
+to ICPSR study 3986. It includes works that are based on primary
+or secondary analysis of the data, or which describe or critique those
+data or the collection methodology. 
+
+If you publish a work or know of other works that are based on these data,
+please send the complete citation and name of the ICPSR study used to:
+icpsr-biblio-notify@umich.edu 
+
+
+1. Lawrence, Daysha R.; Nofziger, Stacey, "Exploring the relationship
+between physical victimization, deviant peer associations, and substance
+abuse/dependence." Presented at the 2010 American Society of Criminology
+Annual Meeting, American Society of Criminology, San Francisco, CA, Nov 17,
+2010.
+
+2. Nofziger, Stacey, "Correlates and Consequences of Juvenile Exposure to
+Violence: A Replication and Extension of Major Findings from the National
+Survey of Adolescents, Final Technical Report." NCJ 203987, Washington, DC:
+United States Department of Justice, National Institute of Justice
+[distributor]. University of Akron [producer], Aug 2003. 2002-IJ-CX-0004
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=203987
+Full text PDF: http://www.ncjrs.gov/pdffiles1/nij/grants/203987.pdf
+In our society, exposure to violence is a common event. A number of
+deleterious outcomes have been associated with exposure to violence, such
+as an increased risk of drug abuse and engagement in delinquent behavior.
+It is possible that the setting in which violence is witnessed is important
+to how juveniles are affected by that violence. As such, the current study
+analyzed the impact of exposure to violence on various forms of
+delinquency, particularly violence in school settings. The two main
+research objectives were to replicate and extend the original analysis of
+the NSA and to examine the context and consequences of school violence.
+Data for the NSA were derived from a national probability telephone sample
+of 4,023 juveniles between the ages of 12 and 17. Respondents were asked
+about their experiences with victimization, other forms of exposure to
+stressful life events, their assessment of peer and family deviance, their
+own delinquent activities, and several indicators of drug and alcohol
+abuse. Results of frequencies, cross-tabular, and logistic regression
+analysis revealed important differences between the original analysis and
+the current findings. The original analysis found that one of the strongest
+predictors of drug abuse was witnessing violence. In the current study,
+controls for income, peer deviance, and location of witnessed violence
+eliminated the significance of PTSD on drug abuse. Furthermore, when the
+location of the violence was controlled, exposure to violence was only a
+predictor of marijuana use. As for the second research objective of
+examining the context and consequences of school violence on adolescents,
+the analysis revealed that witnessing violence in school was a risk factor
+for engaging in serious forms of delinquency and for believing that
+violence was a serious problem in schools and communities.
+
+3. Nofziger, Stacey, "Correlations and Consequences of Juvenile Exposure to
+Violence: A Replication and Extension of Major Findings from the National
+Survey of Adolescents, Executive Summary." NCJ 203981, Washington, DC:
+United States Department of Justice, National Institute of Justice
+[distributor]. University of Akron [producer], Aug 2003. 2002-IJ-CX-0004
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=203981
+Full text PDF: http://www.ncjrs.gov/pdffiles1/nij/grants/203981.pdf
+The two main research objectives were, first, replicate and extend the
+original analysis of the NSA and, second, to examine the context and
+consequences of school violence. Data for the NSA were derived from a
+national probability sample of 4,023 juveniles between the ages of 12 and
+17. Respondents were asked about their experiences with several forms of
+victimization, other forms of exposure to stressful life events, their
+assessment of peer and family deviance, their own delinquent activities,
+and several indicators of drug and alcohol abuse. The initial analysis of
+the NSA examined the relationship between posttraumatic stress disorder
+(PTSD) and drug abuse or dependence. The original analysis found that one
+of the strongest predictors of drug abuse was witnessing violence. Results
+of frequencies, cross-tabular, and logistic regression analysis of NSA data
+revealed important differences between the original analysis and the
+current findings. Controls for income, peer deviance, and location of
+witnessed violence eliminated the significance of PTSD on drug abuse.
+Furthermore, when the location of the witnessed violence was controlled,
+exposure to violence was only a predictor of marijuana use. As for the
+second research objective of examining the context and consequences of
+school violence on adolescents, the analysis revealed that witnessing
+violence in school was a risk factor for engaging in serious forms of
+delinquency and for believing that violence was a serious problem in
+schools and communities. However, witnessing violence at school, or any
+other location, was found to increase the risk of using marijuana, but not
+other drugs or alcohol. As such, witnessing violence does increase the
+general risk for drug and alcohol behaviors but no particular location for
+witnessing violence generates a larger risk than others.
+
+4. Nofziger, Stacey, "Deviant lifestyles and violent victimization at
+school." Journal of Interpersonal Violence. Sep 2009, 24, (9), 1494 - 1517.
+DOI: 10.1177/0886260508323667
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=203981
+Full text PDF: http://www.ncjrs.gov/pdffiles1/nij/grants/203981.pdf
+The two main research objectives were, first, replicate and extend the
+original analysis of the NSA and, second, to examine the context and
+consequences of school violence. Data for the NSA were derived from a
+national probability sample of 4,023 juveniles between the ages of 12 and
+17. Respondents were asked about their experiences with several forms of
+victimization, other forms of exposure to stressful life events, their
+assessment of peer and family deviance, their own delinquent activities,
+and several indicators of drug and alcohol abuse. The initial analysis of
+the NSA examined the relationship between posttraumatic stress disorder
+(PTSD) and drug abuse or dependence. The original analysis found that one
+of the strongest predictors of drug abuse was witnessing violence. Results
+of frequencies, cross-tabular, and logistic regression analysis of NSA data
+revealed important differences between the original analysis and the
+current findings. Controls for income, peer deviance, and location of
+witnessed violence eliminated the significance of PTSD on drug abuse.
+Furthermore, when the location of the witnessed violence was controlled,
+exposure to violence was only a predictor of marijuana use. As for the
+second research objective of examining the context and consequences of
+school violence on adolescents, the analysis revealed that witnessing
+violence in school was a risk factor for engaging in serious forms of
+delinquency and for believing that violence was a serious problem in
+schools and communities. However, witnessing violence at school, or any
+other location, was found to increase the risk of using marijuana, but not
+other drugs or alcohol. As such, witnessing violence does increase the
+general risk for drug and alcohol behaviors but no particular location for
+witnessing violence generates a larger risk than others.
+
+5. Nofziger, Stacey; Kurtz, Don, "Violent lives: A lifestyle model linking
+exposure to violence to juvenile violent offending." Journal of Research in
+Crime and Delinquency. Feb 2005, 42, (1), 3 - 26. DOI:
+10.1177/0022427803262061 NCJ 208485 93-ij-cx-0023; 2002-ij-cx-0004
+Abstract: https://www.ncjrs.gov/App/Publications/abstract.aspx?ID=208485

@@ -1,0 +1,61 @@
+File Manifest for ICPSR 3986
+
+Nofziger, Stacey. CORRELATES AND CONSEQUENCES OF JUVENILE EXPOSURE TO
+VIOLENCE IN THE UNITED STATES, 1995. ICPSR version. Akron, OH: University
+of Akron [producer], 2003. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2004.
+http://doi.org/10.3886/ICPSR03986.v1
+
+Details on the version history can be found below the file listings.
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03986-descriptioncitation.pdf       -       -         -       2017-04-03  -
+
+    03986-related_literature.txt        -       -         -       daily       -
+
+    03986-manifest.txt                  -       -         -       daily       -
+
+
+DS0001 Correlates and Consequences of Juvenile Exposure to Violence in the
+United States, 1995
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    03986-0001-Codebook_Questionnaire.pdf -       -         -       2004-09-02  7b994e9cb2e1b4c59e9caf1b29e53962
+
+    03986-0001-Data.dta                 -       4,023     280     2005-03-10  c46c866f07e7a485447b18c4fe1cf7c2
+
+    03986-0001-Data.por                 -       4,023     280     2005-03-10  b00a518cd77a2d82ed54c92cc3799866
+
+    03986-0001-Data.txt                 366     4,023     280     2004-09-02  0a9a6c99e2bf1f6c03c2ce1f0bbc0e07
+
+    03986-0001-Data.xpt                 -       4,023     280     2005-03-10  f3ea1cad9003ffbf98444a238c580d8e
+
+    03986-0001-Setup.dct                -       -         -       2005-03-10  4f92f8d69e140178fc16d11c51f5fc9f
+
+    03986-0001-Setup.do                 -       -         -       2005-03-10  b692d7c83f55f28183c0008713a66c0f
+
+    03986-0001-Setup.sas                -       -         -       2004-09-02  8e3486c34acb7d836b4ac7385f528974
+
+    03986-0001-Setup.sps                -       -         -       2004-09-02  979875df8cb1386d07f41810ee2c4564
+
+    03986-0001-Supplemental_syntax.do   -       -         -       2005-03-10  2f9bded0b8ca9641f6b4a9163264f3f5
+
+    03986-0001-Supplemental_syntax.sas  -       -         -       2005-03-10  3c67b292644cc87a55847ad6aed21962
+
+    03986-0001-User_guide.pdf           -       -         -       2004-09-02  8c39280246bfc58681e1f151cc024478
+
+
+Version History
+
+2005-11-04  On 2005-03-14 new files were added to one  or  more datasets.
+These files included additional setup files as well  as one or more of the
+following: SAS  program, SAS transport, SPSS portable,   and Stata system
+files. The  metadata record was revised  2005-11-04 to  reflect these
+additions.
