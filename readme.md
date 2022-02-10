@@ -18,8 +18,11 @@ Includes the following datasets and more (see notebooks for more details on the 
 | Breast cancer                      |       277 |         17 |       196 |        81 |               70.8 |
 | Haberman                           |       306 |          3 |        81 |       225 |               73.5 |
 | Credit g                           |      1000 |         60 |       300 |       700 |               70   |
+| Csi all                            |      3313 |         36 |      2773 |       540 |               83.7 |
+| Csi with meta keys                 |      3313 |         25 |      2773 |       540 |               83.7 |
 | Juvenile \cite{osofsky1997effects} |      3640 |        286 |      3153 |       487 |               86.6 |
 | Compas                             |      6172 |         20 |      3182 |      2990 |               51.6 |
+| Enhancer                           |      7809 |         80 |      7115 |       694 |               91.1 |
 | Iai pecarn                         |     12044 |         58 |     11841 |       203 |               98.3 |
 | Credit card                        |     30000 |         33 |     23364 |      6636 |               77.9 |
 | Readmission                        |    101763 |        150 |     54861 |     46902 |               53.9 |
