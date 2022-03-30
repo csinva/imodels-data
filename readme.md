@@ -14,12 +14,15 @@ Includes the following datasets and more (see notebooks for more details on the 
 | haberman              |       306 |          3 |        81 |       225 |               73.5 |
 | credit_g              |      1000 |         60 |       300 |       700 |               70   |
 | csi_all               |      3313 |         36 |      2773 |       540 |               83.7 |
+| csi_metas_nans        |      3313 |         26 |      2773 |       540 |               83.7 |
 | csi_with_meta_keys    |      3313 |         25 |      2773 |       540 |               83.7 |
 | juvenile_clean        |      3640 |        286 |      3153 |       487 |               86.6 |
 | compas_two_year_clean |      6172 |         20 |      3182 |      2990 |               51.6 |
 | enhancer              |      7809 |         80 |      7115 |       694 |               91.1 |
 | iai_pecarn            |     12044 |         58 |     11841 |       203 |               98.3 |
 | credit_card_clean     |     30000 |         33 |     23364 |      6636 |               77.9 |
+| tbi_prop              |     42428 |        241 |     42052 |       376 |               99.1 |
+| tbi_pred              |     42428 |        121 |     42052 |       376 |               99.1 |
 | readmission_clean     |    101763 |        150 |     54861 |     46902 |               53.9 |
 
 # Data usage
