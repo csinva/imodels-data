@@ -18,6 +18,7 @@ Includes the following datasets and more (see notebooks for more details on the 
 | juvenile_clean        |      3640 |        286 |      3153 |       487 |               86.6 |
 | compas_two_year_clean |      6172 |         20 |      3182 |      2990 |               51.6 |
 | enhancer              |      7809 |         80 |      7115 |       694 |               91.1 |
+| fico                  |     10459 |         23 |      5000 |      5459 |               52.2 |
 | iai_pecarn            |     12044 |         58 |     11841 |       203 |               98.3 |
 | credit_card_clean     |     30000 |         33 |     23364 |      6636 |               77.9 |
 | tbi_prop              |     42428 |        223 |     42052 |       376 |               99.1 |
