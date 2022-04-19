@@ -4,7 +4,7 @@
 
 
 
-Includes the following datasets and more (see notebooks for more details on the datasets). To download, use the "Name" field as the key: e.g. `imodels.get_clean_dataset('compas_two_year_clean', data_souce='imodels')`.
+Includes the following datasets and more (see notebooks for more details on the datasets). To download, use the "Name" field as the key: e.g. `imodels.get_clean_dataset('compas_two_year_clean', data_source='imodels')`.
 
 
 | Name                  |   Samples |   Features |   Class 0 |   Class 1 |   Majority class % |
