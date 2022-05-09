@@ -76,9 +76,18 @@ Data comes from various sources - please cite those sources appropriately.
 > 
 > [data_cleaned](data_cleaned) contains the cleaned csv file for each dataset
 
+
+## Clinical decision-rule (PECARN) datasets
 There are two versions of each PECARN (TBI and CSI) dataset.
 - `prop`: missing values have not been imputed
 - `pred`: missing values have been imputed
 
 `csi_pecarn_pred.csv` note: unlike the rest of the datasets in this repo, which are fully cleaned, `csi_pecarn_pred.csv` contains a variable ("SITE") 
 that should be removed before fitting models.
+
+
+| Dataset |  Task                                                        | Size                            | References |
+| ---------- | ----- | ----------------------------------------------------------- | :-------------------------------: |
+|iai_pecarn| Predict intra-abdominal injury requiring acute intervention before CT | 12,044 patients, 203 with IAI-I | [📄](https://pubmed.ncbi.nlm.nih.gov/23375510/), [🔗](https://pecarn.org/datasets/) |
+|tbi_pecarn| Predict traumatic brain injuries before CT | 42,412 patients, 376 with ciTBI | [📄](https://pecarn.org/studyDatasets/documents/Kuppermann_2009_The-Lancet_000.pdf), [🔗](https://pecarn.org/datasets/) |
+|csi_pecarn | Predict cervical spine injury in children | 3,314 patients, 540 with CSI | [📄](https://pecarn.org/studyDatasets/documents/Kuppermann_2009_The-Lancet_000.pdf), [🔗](https://pecarn.org/datasets/)
