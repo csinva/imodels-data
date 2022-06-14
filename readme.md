@@ -91,3 +91,6 @@ that should be removed before fitting models.
 |iai_pecarn| Predict intra-abdominal injury requiring acute intervention before CT | 12,044 patients, 203 with IAI-I | [📄](https://pubmed.ncbi.nlm.nih.gov/23375510/), [🔗](https://pecarn.org/datasets/) |
 |tbi_pecarn| Predict traumatic brain injuries before CT | 42,412 patients, 376 with ciTBI | [📄](https://pecarn.org/studyDatasets/documents/Kuppermann_2009_The-Lancet_000.pdf), [🔗](https://pecarn.org/datasets/) |
 |csi_pecarn | Predict cervical spine injury in children | 3,314 patients, 540 with CSI | [📄](https://pecarn.org/studyDatasets/documents/Kuppermann_2009_The-Lancet_000.pdf), [🔗](https://pecarn.org/datasets/)
+
+## Miscellaneous notes
+The `breast_cancer` dataset here is not the extremely common Wisconsin breast-cancer dataset but rather [this dataset](https://www.openml.org/search?type=data&sort=runs&id=13&status=active) from OpenML. Preprocessing (e.g. dropping missing values) results in the cleaned data having n=277, p=17, rather than the original n=286, p=9.
