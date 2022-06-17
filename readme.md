@@ -13,18 +13,18 @@ Includes the following datasets and more (see notebooks for more details on the 
 | breast_cancer         |       277 |         17 |       196 |        81 |               70.8 |
 | haberman              |       306 |          3 |        81 |       225 |               73.5 |
 | credit_g              |      1000 |         60 |       300 |       700 |               70   |
-| csi_pecarn_prop       |      3313 |         70 |      2773 |       540 |               83.7 |
-| csi_pecarn_pred       |      3313 |         40 |      2773 |       540 |               83.7 |
+| csi_pecarn_prop       |      3313 |         97 |      2773 |       540 |               83.7 |
+| csi_pecarn_pred       |      3313 |         39 |      2773 |       540 |               83.7 |
 | juvenile_clean        |      3640 |        286 |      3153 |       487 |               86.6 |
 | compas_two_year_clean |      6172 |         20 |      3182 |      2990 |               51.6 |
 | enhancer              |      7809 |         80 |      7115 |       694 |               91.1 |
 | fico                  |     10459 |         23 |      5000 |      5459 |               52.2 |
-| iai_pecarn            |     12044 |         58 |     11841 |       203 |               98.3 |
+| iai_pecarn_prop       |     12044 |         73 |     11841 |       203 |               98.3 |
+| iai_pecarn_pred       |     12044 |         58 |     11841 |       203 |               98.3 |
 | credit_card_clean     |     30000 |         33 |     23364 |      6636 |               77.9 |
 | tbi_pecarn_prop       |     42428 |        223 |     42052 |       376 |               99.1 |
 | tbi_pecarn_pred       |     42428 |        121 |     42052 |       376 |               99.1 |
 | readmission_clean     |    101763 |        150 |     54861 |     46902 |               53.9 |
-
 # Data usage
 
 First, install the `imodels` package: `pip install imodels`. Then, use the `imodels.get_clean_dataset` function.
@@ -78,7 +78,7 @@ Data comes from various sources - please cite those sources appropriately.
 
 
 ## Clinical decision-rule (PECARN) datasets
-There are two versions of each PECARN (TBI and CSI) dataset.
+There are two versions of each PECARN (TBI, IAI, and CSI) dataset.
 - `prop`: missing values have not been imputed
 - `pred`: missing values have been imputed
 
