@@ -94,3 +94,9 @@ that should be removed before fitting models.
 
 ## Miscellaneous notes
 The `breast_cancer` dataset here is not the extremely common Wisconsin breast-cancer dataset but rather [this dataset](https://www.openml.org/search?type=data&sort=runs&id=13&status=active) from OpenML. Preprocessing (e.g. dropping missing values) results in the cleaned data having n=277, p=17, rather than the original n=286, p=9.
+
+Some other cool datasets:
+
+- [moleculenet](https://moleculenet.org/datasets-1) - benchmarks for molecular datasets
+- [srbench](https://github.com/cavalab/srbench) - benchmarking for symbolic regression
+- [big-bench](https://github.com/google/BIG-bench) - language modeling benchmarks
