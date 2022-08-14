@@ -4,24 +4,24 @@ language: []
 language_creators: []
 license: []
 multilinguality: []
-pretty_name: diabetes-readmission
+pretty_name: credit-card
 size_categories:
-- 100K<n<1M
-  source_datasets: []
-  tags:
+- 10K<n<100K
+source_datasets: []
+tags:
 - interpretability
 - fairness
 - medicine
-  task_categories:
+task_categories:
 - tabular-classification
-  task_ids: []
+task_ids: []
 ---
 
-Port of the diabetes-readmission dataset from UCI (link [here](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)). See details there and use carefully.
+Port of the credit-card dataset from UCI (link [here](https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset)). See details there and use carefully.
 
 Basic preprocessing done by the [imodels team](https://github.com/csinva/imodels) in [this notebook](https://github.com/csinva/imodels-data/blob/master/notebooks_fetch_data/00_get_datasets_custom.ipynb).
 
-The target is the binary outcome `readmitted`.
+The target is the binary outcome `default.payment.next.month`.
 
 ### Sample usage
 
@@ -30,10 +30,10 @@ Load the data:
 ```
 from datasets import load_dataset
 
-dataset = load_dataset("imodels/diabetes-readmission")
+dataset = load_dataset("imodels/credit-card")
 df = pd.DataFrame(dataset['train'])
-X = df.drop(columns=['is_recid'])
-y = df['readmitted'].values
+X = df.drop(columns=['default.payment.next.month'])
+y = df['default.payment.next.month'].values
 ```
 
 Fit a model:
@@ -53,7 +53,7 @@ Evaluate:
 
 ```
 df_test = pd.DataFrame(dataset['test'])
-X_test = df.drop(columns=['readmitted'])
-y_test = df['is_recid'].values
+X_test = df.drop(columns=['default.payment.next.month'])
+y_test = df['default.payment.next.month'].values
 print('accuracy', np.mean(m.predict(X_test) == y_test))
 ```
