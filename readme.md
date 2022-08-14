@@ -1,10 +1,12 @@
 <h1 align="center"> imodels🔍 data</h1>
 <p align="center"> Tabular data for various problems, especially for high-stakes rule-based modeling with the <a href="https://github.com/csinva/imodels">imodels package.</a>
+<p align="center"> See also https://huggingface.co/imodels </p>
 </p>
 
 
+Includes the following datasets and more (see notebooks for more details on the datasets).
 
-Includes the following datasets and more (see notebooks for more details on the datasets). To download, use the "Name" field as the key: e.g. `imodels.get_clean_dataset('compas_two_year_clean', data_source='imodels')`.
+To download, use the "Name" field as the key: e.g. `imodels.get_clean_dataset('compas_two_year_clean', data_source='imodels')`.
 
 
 | Name                  |   Samples |   Features |   Class 0 |   Class 1 |   Majority class % |
