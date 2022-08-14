@@ -1,3 +1,7 @@
 **.idea
 **.DS_Store
 **checkpoints
+export_to_huggingface/*.csv
+export_to_huggingface/*.joblib
+export_to_huggingface/data
+data/imodels_data
