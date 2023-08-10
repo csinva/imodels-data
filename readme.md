@@ -27,6 +27,7 @@ To download, use the "Name" field as the key: e.g. `imodels.get_clean_dataset('c
 | tbi_pecarn_prop       |     42428 |        223 |     42052 |       376 |               99.1 |
 | tbi_pecarn_pred       |     42428 |        121 |     42052 |       376 |               99.1 |
 | readmission_clean     |    101763 |        150 |     54861 |     46902 |               53.9 |
+
 # Data usage
 
 First, install the `imodels` package: `pip install imodels`. Then, use the `imodels.get_clean_dataset` function.
@@ -80,6 +81,8 @@ Data comes from various sources - please cite those sources appropriately.
 
 
 ## Clinical decision-rule (PECARN) datasets
+To use any of the clinical decision-rule datasets, you must first accept the research data use agreement [here](https://pecarn.org/datasets/).
+
 There are two versions of each PECARN (TBI, IAI, and CSI) dataset.
 - `prop`: missing values have not been imputed
 - `pred`: missing values have been imputed
